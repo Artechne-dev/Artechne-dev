@@ -13,24 +13,18 @@ Focado em segurança da informação, arquitetura de sistemas e na engenharia de
 *Design e Impressão 3D*
 Transformação de ideias em produtos tangíveis através da manufatura aditiva.
 > "Criar é o começo de tudo."
-https://baracreate.netclouddev.net(#) 
+https://baracreate.netclouddev.net 
 
 **Co-Fundador | Artechne**
 *Soluções em TI, Suporte e Desenvolvimento*
 Provedora de suporte em hardware, planos de manutenção preventiva, desenvolvimento de aplicações web, automações via chatbots e otimização de campanhas no Google Ads.
-[Website Artechne](#) 
+https://artechne.netclouddev.net
 
 ---
 
 ## Portfólio e Projetos em Destaque
 
-**[Acessar Meu Portfólio Completo](#)** <!-- Inserir a URL do portfólio aqui -->
-
-### Arquitetura & Desenvolvimento
-- **[Nome do Projeto 1](#):** [Descrever o escopo, o desafio arquitetural e as soluções de segurança/infraestrutura aplicadas]
-- **[Nome do Projeto 2](#):**  [Descrever o escopo, o desafio arquitetural e as soluções de segurança/infraestrutura aplicadas]
-
----
+**https://portifolio-pr-gabriel.netclouddev.net** <!-- Inserir a URL do portfólio aqui -->
 
 ## Stack Tecnológica
 
