@@ -18,7 +18,7 @@ https://baracreate.netclouddev.net
 **Co-Fundador | Artechne**
 *Soluções em TI, Suporte e Desenvolvimento*
 Provedora de suporte em hardware, planos de manutenção preventiva, desenvolvimento de aplicações web, automações via chatbots e otimização de campanhas no Google Ads.
-> "Confiança é o pilar principal."
+> "Confiança é o principal pilar."
 https://artechne.netclouddev.net
 
 ---
