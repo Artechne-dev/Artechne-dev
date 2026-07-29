@@ -76,13 +76,32 @@ https://portifolio-pr-gabriel.netclouddev.net
 
 ---
 
+## Criação de Conteúdos e Projetos
+
+Acompanhe meus conteúdos, processos criativos e novos projetos nas redes:
+
+<a href="SEU_LINK_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>&nbsp;
+<a href="SEU_LINK_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+</a>&nbsp;
+<a href="SEU_LINK_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+---
+
 ## Contato e Redes
 
 <a href="https://www.linkedin.com/in/gabriel-alves-dos-reis-83aa6634b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;
-<a href="https://discord.com/users/4gabriel4dev" target="_blank" title="Usuario: 4gabriel4dev">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<a href="https://wa.me/SEU_NUMERO_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>&nbsp;
+<a href="SEU_LINK_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>&nbsp;
 <a href="mailto:gareisenterprise@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
