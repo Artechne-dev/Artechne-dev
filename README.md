@@ -1,26 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,9D4EDD,4B0082&height=220&section=header&text=Gabriel%20Alves&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=InfoSec%20%7C%20Software%20Architecture%20%7C%20Tech%20Entrepreneur&descAlignY=55&descSize=18" alt="Header Banner" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/pr-gabriel">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=9D4EDD&center=true&vCenter=true&width=600&lines=Analista+de+TI;Arquiteto+de+Software;Especialista+em+Cyber+Security;Engenheiro+de+Soluções+Tecnológicas" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Gabriel%20Alves&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=InfoSec%20%7C%20Software%20Architecture%20%7C%20Tech%20Entrepreneur&descAlignY=55&descSize=18" alt="Header Banner" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-alves-dos-reis-83aa6634b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;
   <a href="mailto:gareisenterprise@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-E_mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>&nbsp;
-  <a href="SEU_LINK_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>&nbsp;
-  <a href="https://wa.me/SEU_NUMERO_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">&nbsp;
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </p>
 
 ---
@@ -33,25 +23,29 @@ Focado no paradigma absoluto em **segurança da informação (InfoSec)**, **arqu
 
 ---
 
-## 🚀 Perfil Empreendedor e Governança de Startups (Cofundador)
+## 🚀 Projetos em Produção e Perfil Empreendedor
 
 <table width="100%" border="0" align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>🟣 Artechne</h3>
-      <em>Diretoria Executiva | Soluções Avançadas em TI, Automação e Suporte</em><br/><br/>
+      <em>Soluções Avançadas em TI, Automação e Suporte</em><br/><br/>
       Fundação provedora vitalícia especializada em manutenção preventiva infraestrutural, arquitetura pesada de aplicações escaláveis web, engenharia e injeções de automações via IA chatbots e otimização agressiva de campanhas analíticas no Google Ads.<br/><br/>
-      <a href="https://artechne.netclouddev.net" target="_blank"><b>🔗 Visite o Portal Analítico Artechne</b></a>
-      <br/><br/>
-      <blockquote>"Confiança inabalável é o pilar mestre de todo o escalonamento estrutural corporativo e integridade da conectividade sistêmica."</blockquote>
+      <blockquote>"Confiança inabalável é o pilar mestre de todo o escalonamento estrutural corporativo."</blockquote>
+      <br/>
+      <a href="https://artechne.netclouddev.net" target="_blank">
+        <img src="https://img.shields.io/badge/ACESSAR-PORTAL_ARTECHNE-8A2BE2?labelColor=1F2937&style=for-the-badge" alt="Acessar Artechne"/>
+      </a>
     </td>
-    <td width="50%" align="center">
-      <h3>🟠 Bará Create</h3>
-      <em>Engenharia Estrutural | Design Funcional Avançado e Impressão 3D</em><br/><br/>
+    <td width="50%" align="center" valign="top">
+      <h3>🟢 Bará Create</h3>
+      <em>Design Funcional Avançado e Impressão 3D</em><br/><br/>
       Laboratório de engenharia industrial disruptivo profundamente focado na transformação metódica e arquitetural de idealizações conceituais e ideias complexas em produtos reais operacionais e mecânicos através de manufatura aditiva extrema.<br/><br/>
-      <a href="https://baracreate.netclouddev.net" target="_blank"><b>🔗 Explore os Projetos Bará Create</b></a>
-      <br/><br/>
-      <blockquote>"O ímpeto genético de criar infraestruturas no mundo dimensional real e virtual baliza o começo da civilização estruturada."</blockquote>
+      <blockquote>"Pois criar, é o começo de tudo!"</blockquote>
+      <br/>
+      <a href="https://baracreate.netclouddev.net" target="_blank">
+        <img src="https://img.shields.io/badge/ACESSAR-BARÁ_CREATE-20B2AA?labelColor=1F2937&style=for-the-badge" alt="Acessar Bará Create"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -96,22 +90,10 @@ Focado no paradigma absoluto em **segurança da informação (InfoSec)**, **arqu
 
 ---
 
-## 📊 Analytics Operacionais em Tempo Real e Produtividade Contínua Integrada (APIs)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr-gabriel&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&count_private=true" alt="Estatísticas Analíticas Consolidadas" />
-  <img src="https://streak-stats.demolab.com?user=pr-gabriel&theme=shades-of-purple&hide_border=true&bg_color=0D1117&date_format=j%20M%5B%20Y%5D&timezone=America/Sao_Paulo" alt="Monitoramento de Entregas Constantes (Streaks)" />
-</div>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=0D1117" alt="Linguagens Volumétricas Mais Usadas" />
-</div>
 
 <p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=pr-gabriel&label=Visitantes&color=8A2BE2&style=for-the-badge" alt="Tráfego do Perfil do Especialista" />
-</p>
-
-<p align="center">
-  🔍 <b><a href="https://portifolio-pr-gabriel.netclouddev.net" target="_blank">Acesse meu Portfólio Computacional Central Completo</a></b> para visualizar documentações e fluxos operacionais extensivos de projetos consolidados, diagramas vetoriais e infraestruturais de arquitetura de software e artigos recentes focados no universo de InfoSec.
+  <a href="https://portifolio-pr-gabriel.netclouddev.net" target="_blank">
+    <img src="https://img.shields.io/badge/ACESSAR-PORTFÓLIO_COMPUTACIONAL_COMPLETO-9D4EDD?labelColor=1F2937&style=for-the-badge&logo=github&logoColor=white" alt="Acessar Portfólio" />
+  </a>
 </p>
