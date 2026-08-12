@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre Mim e Lógica de Arquitetura Segura
 
-Focado em **Desenvolvimento WEB**, **arquitetura distribuída** e engenharia de soluções em nuvem. O desenvolvimento de infraestruturas resilientes exige práticas rigorosas de DevSecOps, unindo visão técnica e estratégia para criar ecossistemas seguros, escaláveis e de alto valor.
+Focado em **Desenvolvimento WEB**, **Infraestrutura e atumomações**,  engenharia de soluções em nuvem e estudo de rede e segurança da informação. O desenvolvimento de infraestruturas resilientes exige práticas rigorosas de DevSecOps, unindo visão técnica e estratégia para criar ecossistemas seguros, escaláveis e de alto valor.
 
 > *"Tecnologia não é apenas sobre código. É primariamente sobre construir defesas em camadas, proteger a integridade dos dados, dimensionar infraestruturas com eficiência e gerar valor por meio de segurança e resiliência."*
 
@@ -30,7 +30,7 @@ Focado em **Desenvolvimento WEB**, **arquitetura distribuída** e engenharia de 
     <td width="50%" align="center" valign="top">
       <h3>🟣 Artechne</h3>
       <em>Soluções Avançadas em TI, Automação e Suporte</em><br/><br/>
-      Especializada em infraestrutura, arquitetura de aplicações web escaláveis, automação via IA (chatbots) e otimização estratégica de campanhas no Google Ads.<br/><br/>
+      Especializada em infraestrutura, arquitetura de aplicações web escaláveis, automação via IA (chatbots), planos de manutenção preventiva e corretiva de consultórios e pequenas empresas e otimização estratégica de campanhas no Google Ads.<br/><br/>
       <em>"Confiança é o principal pilar."</em>
       <br/><br/>
       <a href="https://artechne.netclouddev.net" target="_blank">
@@ -40,10 +40,10 @@ Focado em **Desenvolvimento WEB**, **arquitetura distribuída** e engenharia de 
     <td width="50%" align="center" valign="top">
       <h3>🟢 Bará Create</h3>
       <em>Design Funcional Avançado e Impressão 3D</em><br/><br/>
-      Focada na transformação de ideias complexas em produtos físicos operacionais e mecânicos através de design metódico e manufatura aditiva (impressão 3D).<br/><br/>
+      Focada na transformação de ideias complexas em produtos físicos operacionais e mecânicos através de design metódico e manufatura aditiva (impressão 3D), transformando sua ideia em realidade desde a modelagem do produto até o acabamento e envio.<br/><br/>
       <em>"Pois criar, é o começo de tudo!"</em>
       <br/><br/>
-      <a href="https://baracreate.netclouddev.net" target="_blank">
+      <a href="https://baracreate.com" target="_blank">
         <img src="https://img.shields.io/badge/ACESSAR-BARÁ_CREATE-20B2AA?labelColor=1F2937&style=for-the-badge" alt="Acessar Bará Create"/>
       </a>
     </td>
@@ -94,7 +94,7 @@ Focado em **Desenvolvimento WEB**, **arquitetura distribuída** e engenharia de 
 <br>
 
 <p align="center">
-  <a href="https://portifolio-pr-gabriel.netclouddev.net" target="_blank">
+  <a href="https://Portifolio-Gabriel.netclouddev.net" target="_blank">
     <img src="https://img.shields.io/badge/ACESSAR-PORTFÓLIO_COMPUTACIONAL_COMPLETO-9D4EDD?labelColor=1F2937&style=for-the-badge&logo=github&logoColor=white" alt="Acessar Portfólio" />
   </a>
 </p>
