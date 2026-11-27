@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre Mim e Lógica de Arquitetura Segura
 
-Focado em **Desenvolvimento WEB**, **Infraestrutura e atumomações**,  engenharia de soluções em nuvem e estudo de rede e segurança da informação. O desenvolvimento de infraestruturas resilientes exige práticas rigorosas de DevSecOps, unindo visão técnica e estratégia para criar ecossistemas seguros, escaláveis e de alto valor.
+Focado em **Desenvolvimento WEB**, **Infraestrutura e atumomações**, **Segurança da informação**, engenharia de soluções em nuvem e estudo de rede. O desenvolvimento de infraestruturas resilientes exige práticas rigorosas de DevSecOps, unindo visão técnica e estratégia para criar ecossistemas seguros, escaláveis e de alto valor.
 
 > *"Tecnologia não é apenas sobre código. É primariamente sobre construir defesas em camadas, proteger a integridade dos dados, dimensionar infraestruturas com eficiência e gerar valor por meio de segurança e resiliência."*
 
